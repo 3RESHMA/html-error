@@ -1,0 +1,85 @@
+*
+{
+    margin:0;
+    padding:0;
+}
+h2 
+{
+    
+    text-align: center;
+}
+h2 a:hover
+{
+    cursor: pointer;
+    color: red;
+}
+table
+{
+    border: 2px;
+    padding:20px 40px;
+    width: 700px;
+    margin-left: 400px;
+    color: rgb(99, 18, 143);
+    text-align: center;
+}
+body
+{
+    background-color:rgba(11, 231, 234, 0.833) ;
+    background-image: linear-gradient(45deg, #85ffbd 0%, #fffb7d 100%,);
+    text-align: center;
+
+}
+th,td
+{
+    padding: 10px;
+    border: 3px solid rgb(230, 213, 213);
+
+}
+.n1
+{
+    background-color: rgb(9, 120, 118);
+}
+#n1
+{
+    background-color: rgb(9, 120, 118);
+}
+.n2
+{
+    background-color: rgb(25, 216, 216);
+}
+#n2
+{
+    background-color: rgb(25, 216, 216);
+}
+.n3
+{
+    background-color: rgb(13, 161, 47);
+}
+#n3
+{
+    background-color: rgb(13, 161, 47);
+}
+.n4
+{
+    background-color: rgba(196, 10, 171, 0.833);
+}
+.n5
+{
+    background-color: #d11717;
+}
+.n6
+{
+    background-color: #c8d50fd4;
+}
+.n7
+{
+    background-color: #096389d4;
+}
+.n8
+{
+    background-color: black;
+}
+.n9
+{
+    background-color: blueviolet
+}
